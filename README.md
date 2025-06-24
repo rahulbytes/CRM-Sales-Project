@@ -72,7 +72,11 @@ The project is built using four interlinked datasets:
 
 ## 📎 Files Included
 - Screenshots – Contains all visual previews of the dashboard pages
-![Screenshot 2025-06-24 122018](https://github.com/user-attachments/assets/c820ce7a-5c93-4daa-bf84-814cb7a389d2)
+![Screenshot 2025-06-24 121952](https://github.com/user-attachments/assets/da8ef4fa-6ed0-40ba-9b3b-f189ddd84930)
+![Screenshot 2025-06-24 122018](https://github.com/user-attachments/assets/bae38a20-d0e8-4c7c-a4ef-7a6e07e999d2)
+![Screenshot 2025-06-24 122042](https://github.com/user-attachments/assets/667b512f-022c-4cde-a43e-83ef3c17c45a)
+![Screenshot 2025-06-24 122102](https://github.com/user-attachments/assets/d89ceb62-c178-4382-8a3f-3839bae137a7)
+
 
 
 ---
@@ -81,8 +85,7 @@ The project is built using four interlinked datasets:
 
 I’m open to feedback, suggestions, and collaboration on similar analytics or dashboarding projects.
 
-Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com)  
-(Replace the link with your actual profile)
+Feel free to reach out or connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/rahuldey2003/))  
 
 ---
 
