@@ -85,7 +85,7 @@ The project is built using four interlinked datasets:
 
 I’m open to feedback, suggestions, and collaboration on similar analytics or dashboarding projects.
 
-Feel free to reach out or connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/rahuldey2003/))  
+Feel free to reach out or connect with me on [LinkedIn]((https://www.linkedin.com/in/rahuldey2003/))  
 
 ---
 
