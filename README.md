@@ -71,10 +71,9 @@ The project is built using four interlinked datasets:
 ---
 
 ## 📎 Files Included
+- Screenshots – Contains all visual previews of the dashboard pages
+![Screenshot 2025-06-24 122018](https://github.com/user-attachments/assets/c820ce7a-5c93-4daa-bf84-814cb7a389d2)
 
-- `SQL Queries.sql` – Contains the SQL code used for initial data prep
-- `PowerBI Dashboard.pbix` – Power BI file with all visuals and measures
-- Screenshots folder – Contains all visual previews of the dashboard pages
 
 ---
 
